@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569783756875",
+    "firebase_url": "https://bee-stop-7e534.firebaseio.com",
+    "project_id": "bee-stop-7e534",
+    "storage_bucket": "bee-stop-7e534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569783756875:android:3239ab35a9af5c65da85ce",
+        "android_client_info": {
+          "package_name": "zfani.assaf.bee_stop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569783756875-nsv16d0vnb5vdgi7ngvtfhlt7r2ssc3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHUJqvTLhWbCAUswcUlsVG9El3wKAMLrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569783756875-nsv16d0vnb5vdgi7ngvtfhlt7r2ssc3i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569783756875-84kor7d94636hkjb4g1n0uemksuos82f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yahlli.Bee-Stop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

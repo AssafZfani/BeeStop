@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeeStop</string>
+    <string name="title_map">מסביבי</string>
+    <string name="title_send_message">שלח בקשה</string>
+    <string name="title_direction">הכוונה</string>
+    <string name="title_by_hands">בידיים</string>
+    <string name="titile_about">אודות יזם הפרויקט:</string>
+    <string name="about">הילמר כריסטופר קונמן יליד באזל/שוויץ\nחלוץ בכל הקשור לדבוראות ביו דינאמית בישראל, מרצה לדבוראות אורבנית בארץ ובעולם: גאורגייה/טביליסי, במכללת ספיר, מכללת אוהלו אוניברסיטת תל אביב, וקורסים פרטיים.\nמעביר סדנאות לקליעת כוורות ביו דינאמיות.\nאפיתרפיסט, צלם פרחים דבורים ופרפרים.\nשותף לתרגום הספר Bees מגרמנית לעברית מאת ד\'ר רודולף שטיינר</string>
+    <string name="name">הילמר קונמן</string>
+    <string name="phone">0543185805</string>
+    <string name="email">Hilmarkuhnemann@gmail.com</string>
+    <string name="pdf1">רשימת צמחים מושכי דבורים</string>
+    <string name="pdf2">אודות הפרויקט</string>
+</resources>

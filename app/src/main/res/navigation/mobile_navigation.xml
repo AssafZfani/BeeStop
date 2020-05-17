@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_map">
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="zfani.assaf.bee_stop.ui.map.MapFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/navigation_send_message"
+        android:name="zfani.assaf.bee_stop.ui.send_message.SendMessageFragment"
+        android:label="@string/title_send_message"
+        tools:layout="@layout/fragment_send_message" />
+
+    <fragment
+        android:id="@+id/navigation_direction"
+        android:name="zfani.assaf.bee_stop.ui.direction.DirectionFragment"
+        android:label="@string/title_direction"
+        tools:layout="@layout/fragment_direction" />
+
+    <fragment
+        android:id="@+id/navigation_by_hands"
+        android:name="zfani.assaf.bee_stop.ui.by_hands.ByHandsFragment"
+        android:label="@string/title_by_hands"
+        tools:layout="@layout/fragment_by_hands" />
+
+</navigation>

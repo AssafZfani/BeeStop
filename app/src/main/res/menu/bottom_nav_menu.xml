@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_map"
+        android:title="@string/title_map" />
+
+    <item
+        android:id="@+id/navigation_send_message"
+        android:icon="@drawable/ic_send_message"
+        android:title="@string/title_send_message" />
+
+    <item
+        android:id="@+id/navigation_direction"
+        android:icon="@drawable/ic_direction"
+        android:title="@string/title_direction" />
+
+    <item
+        android:id="@+id/navigation_by_hands"
+        android:icon="@drawable/ic_by_hands"
+        android:title="@string/title_by_hands" />
+
+</menu>
